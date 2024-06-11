@@ -130,3 +130,15 @@ input[type='text'] {
     background-color: rgb(0, 255, 102);
   }
 }
+
+
+
+image {
+  width: 200px;
+  border: 15px solid rgb(232, 234, 232);
+  padding: 50px;
+  margin: 20px;
+}
+
+
+
