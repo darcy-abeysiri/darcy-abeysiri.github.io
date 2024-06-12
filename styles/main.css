@@ -96,7 +96,7 @@ h1 {
 
 .learning {
  font-size: 20px;
- color: rgb(70, 68, 68);
+ color: rgb(205, 205, 205);
 }
 
 
@@ -118,7 +118,6 @@ input[type='text'] {
 /* widescreen displays */
 @media only screen and (min-width: 920px) {
   .container {
-    background-color: rgb(216, 211, 211);
     background-image: url('../image.jpeg');
     background-size: cover;
 }
@@ -126,13 +125,15 @@ input[type='text'] {
 /* tablets */
 @media only screen and (max-width: 919px) {
   .container {
-    background-color: aqua;
+    background-image: url('../image.jpeg');
+    background-size: cover;
   }
 }
 
 /* phones */
 @media only screen and (max-width: 400px) {
   .container {
-    background-color: rgb(0, 255, 102);
+    background-image: url('../image.jpeg');
+    background-size: cover;
   }
 }
