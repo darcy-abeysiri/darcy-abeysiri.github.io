@@ -5,7 +5,8 @@
 }
 
 body {
-  background-color: azure;
+  background-image: url('../image.jpeg');
+  background-size: cover;
 }
 
 
@@ -31,6 +32,7 @@ body {
   text-align: center;
   font-size: 40px;
   text-decoration: none;
+
 }
 
 a {
